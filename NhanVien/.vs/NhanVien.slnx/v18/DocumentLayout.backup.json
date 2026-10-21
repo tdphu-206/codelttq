@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTTQ\\NhanVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4679A-DAA9-AFCF-1BCD-A4B2D6FDF52F}|NhanVien\\NhanVien.csproj|d:\\lttq\\nhanvien\\nhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B4679A-DAA9-AFCF-1BCD-A4B2D6FDF52F}|NhanVien\\NhanVien.csproj|solutionrelative:nhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4679A-DAA9-AFCF-1BCD-A4B2D6FDF52F}|NhanVien\\NhanVien.csproj|d:\\lttq\\nhanvien\\nhanvien\\classes\\dataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B4679A-DAA9-AFCF-1BCD-A4B2D6FDF52F}|NhanVien\\NhanVien.csproj|solutionrelative:nhanvien\\classes\\dataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4679A-DAA9-AFCF-1BCD-A4B2D6FDF52F}|NhanVien\\NhanVien.csproj|D:\\LTTQ\\NhanVien\\nhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B4679A-DAA9-AFCF-1BCD-A4B2D6FDF52F}|NhanVien\\NhanVien.csproj|solutionrelative:nhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataProcessor.cs",
+              "DocumentMoniker": "D:\\LTTQ\\NhanVien\\NhanVien\\Classes\\DataProcessor.cs",
+              "RelativeDocumentMoniker": "NhanVien\\Classes\\DataProcessor.cs",
+              "ToolTip": "D:\\LTTQ\\NhanVien\\NhanVien\\Classes\\DataProcessor.cs",
+              "RelativeToolTip": "NhanVien\\Classes\\DataProcessor.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T08:26:52.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LTTQ\\NhanVien\\NhanVien\\Form1.cs",
+              "RelativeDocumentMoniker": "NhanVien\\Form1.cs",
+              "ToolTip": "D:\\LTTQ\\NhanVien\\NhanVien\\Form1.cs [Design]",
+              "RelativeToolTip": "NhanVien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:28:17.785Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LTTQ\\NhanVien\\NhanVien\\Form1.cs",
+              "RelativeDocumentMoniker": "NhanVien\\Form1.cs",
+              "ToolTip": "D:\\LTTQ\\NhanVien\\NhanVien\\Form1.cs",
+              "RelativeToolTip": "NhanVien\\Form1.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAswDIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T01:08:56.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

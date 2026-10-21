@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTTQ\\VatLieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{463FB47B-3C56-47CB-90C6-C8BE513146B6}|VatLieu\\VatLieu.csproj|d:\\lttq\\vatlieu\\vatlieu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463FB47B-3C56-47CB-90C6-C8BE513146B6}|VatLieu\\VatLieu.csproj|solutionrelative:vatlieu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463FB47B-3C56-47CB-90C6-C8BE513146B6}|VatLieu\\VatLieu.csproj|d:\\lttq\\vatlieu\\vatlieu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{463FB47B-3C56-47CB-90C6-C8BE513146B6}|VatLieu\\VatLieu.csproj|solutionrelative:vatlieu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463FB47B-3C56-47CB-90C6-C8BE513146B6}|VatLieu\\VatLieu.csproj|d:\\lttq\\vatlieu\\vatlieu\\classes\\dataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463FB47B-3C56-47CB-90C6-C8BE513146B6}|VatLieu\\VatLieu.csproj|solutionrelative:vatlieu\\classes\\dataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LTTQ\\VatLieu\\VatLieu\\Form1.cs",
+              "RelativeDocumentMoniker": "VatLieu\\Form1.cs",
+              "ToolTip": "D:\\LTTQ\\VatLieu\\VatLieu\\Form1.cs",
+              "RelativeToolTip": "VatLieu\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T09:22:10.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataProcessor.cs",
+              "DocumentMoniker": "D:\\LTTQ\\VatLieu\\VatLieu\\Classes\\DataProcessor.cs",
+              "RelativeDocumentMoniker": "VatLieu\\Classes\\DataProcessor.cs",
+              "ToolTip": "D:\\LTTQ\\VatLieu\\VatLieu\\Classes\\DataProcessor.cs",
+              "RelativeToolTip": "VatLieu\\Classes\\DataProcessor.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAEwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T09:01:34.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LTTQ\\VatLieu\\VatLieu\\Form1.cs",
+              "RelativeDocumentMoniker": "VatLieu\\Form1.cs",
+              "ToolTip": "D:\\LTTQ\\VatLieu\\VatLieu\\Form1.cs [Design]",
+              "RelativeToolTip": "VatLieu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T09:00:56.272Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
